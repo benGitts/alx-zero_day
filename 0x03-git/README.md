@@ -1,9 +1,3 @@
 Its not empty > README.md
 
-
-
-
-
-
-
-echo Its not empty
+It's up to date
